@@ -17,7 +17,7 @@ Getting started with .net core 1.0 with angular2 and MongoDb in visual studio co
 5. now navigate to the project files it should be at  <code> $ projectName\src\projectName </code>
 6. To build and run the project you need to execute the bellow commands
   * <code> $> dotnet restore </code>
-  *<code> $> tsc </code>
-  *<code> $> dotnet build </code>
-  *<code> $> dotnet run </code>
+  * <code> $> tsc </code>
+  * <code> $> dotnet build </code>
+  * <code> $> dotnet run </code>
   
